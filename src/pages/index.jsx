@@ -89,11 +89,12 @@ export default function SofiaPortal() {
           <p>If you'd like to collaborate or mention something, email or connect:</p>
 
           <p>
-            <a href="mailto:sofiautilitarian@gmail.com" style={primaryLink}>sofia@example.com</a>
+            <a href="mailto:sofiautilitarian@gmail.com" style={primaryLink}>
+              <img src = './image.png' alt="Sofia" style={{ width: "160px", borderRadius: "12px" }} ></img></a>
           </p>
 
           <p style={{fontSize: 13, color: '#666'}}>
-            Replace the email address with Sofia’s preferred contact address before publishing. Also update the case study links above.
+            Let Sofia know what you want to say to her ! 
           </p>
 
           <div style={{marginTop: 12}}>
